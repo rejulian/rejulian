@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Julian Re</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-- 🔭 I’m currently working on **SQLData**
-
 - 👨‍💻 All of my projects are available at [https://julianre.tech](https://julianre.tech)
 
 - 💬 Ask me about **React, Node, MongoDB and MySQL**
