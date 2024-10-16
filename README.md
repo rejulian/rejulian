@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julian Re</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-- 👨‍💻 All of my projects are available at [https://julianre.tech](https://julianre.tech)
+- 👨‍💻 All of my projects are available at [https://julianre.vercel.app](https://julianre.vercel.app)
 
 - 💬 Ask me about **React, Node, MongoDB and MySQL**
 
