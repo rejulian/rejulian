@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Julian Re</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
+- I'm currently working at [@Ensolvers](https://www.ensolvers.com/)
+
 - 👨‍💻 All of my projects are available at [https://julianre.vercel.app](https://julianre.vercel.app)
 
-- 💬 Ask me about **React, Node, MongoDB and MySQL**
+- 💬 Ask me about **React, Node, Next and MySQL**
 
 - 📫 How to reach me **contacto.julian.re@gmail.com**
 
